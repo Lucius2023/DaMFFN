@@ -9,9 +9,7 @@ Install packages with:
 `$ pip install -r requirements.txt`
 
 ## Configure and Run
-All configurations concerning data, model, training, visualization etc. can be made in config.py. The default configuration will run a training with paper-given parameters on the provided dummy dataset. This dataset contains images of 4 squares as normal examples and 4 circles as anomaly.
 
-To extract features, run extract_features.py (this was already done here for the dummy dataset, features were extracted to data/features). To start the training, just run main.py! Please report us if you have issues when using the code.
 
 ## Data
 
