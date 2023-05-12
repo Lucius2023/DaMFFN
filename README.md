@@ -16,14 +16,6 @@ Install packages with:
 ## Citation
 Please cite our paper in your publications if it helps your research. Even if it does not, you are welcome to cite us.
 
-    @inproceedings { RudWeh2022,
-    author = {Marco Rudolph and Tom Wehrbein and Bodo Rosenhahn and Bastian Wandt},
-    title = {Fully Convolutional Cross-Scale-Flows for Image-based Defect Detection},
-    booktitle = {Winter Conference on Applications of Computer Vision (WACV)},
-    year = {2022},
-    url = {arxiv},
-    month = jan
-    }
 
 ## License
 This project is licensed under the MIT License.
