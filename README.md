@@ -5,6 +5,7 @@ This is the code to the Visual Computer paper "A Dual-Structure Attention-Based 
 You will need Python 3.6 and the packages specified in requirements.txt. We recommend setting up a virtual environment with pip and installing the packages there.
 
 Install packages with:
+
 $ pip install -r requirements.txt
 
 ## Configure and Run
