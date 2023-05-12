@@ -6,7 +6,7 @@ You will need Python 3.6 and the packages specified in requirements.txt. We reco
 
 Install packages with:
 
-'''$ pip install -r requirements.txt'''
+''' $ pip install -r requirements.txt '''
 
 ## Configure and Run
 All configurations concerning data, model, training, visualization etc. can be made in config.py. The default configuration will run a training with paper-given parameters on the provided dummy dataset. This dataset contains images of 4 squares as normal examples and 4 circles as anomaly.
