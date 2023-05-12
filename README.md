@@ -5,8 +5,8 @@ This is the code to the Visual Computer paper "A Dual-Structure Attention-Based 
 You will need Python 3.6 and the packages specified in requirements.txt. We recommend setting up a virtual environment with pip and installing the packages there.
 
 Install packages with:
-
 $ pip install -r requirements.txt
+
 ## Configure and Run
 All configurations concerning data, model, training, visualization etc. can be made in config.py. The default configuration will run a training with paper-given parameters on the provided dummy dataset. This dataset contains images of 4 squares as normal examples and 4 circles as anomaly.
 
